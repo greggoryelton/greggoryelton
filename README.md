@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @greggoryelton
 - 👀 I’m interested in Cyber Security and cloud services.
-- 🌱 I’m currently learning about cloud services, malware reverse engineering, software development and other topics relating to cyber security.
-- 💞️ I’m looking to collaborate on anything and everything!
+- 🌱 I’m currently working in cloud security engineering, threat intel, software development and other topics relating to cyber security.
 - 📫 How to reach me: I can be reached at greggory.elton@outlook.com
 
 <!---
